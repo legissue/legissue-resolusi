@@ -3,5 +3,5 @@ legissue resolusi
 -membuat website sendiri yang dapat di akses
 -membuat sistem login lengkap menggunakan codegniter
 -membuat portfolio hyperactive
--belajar menggunakan css
 -belajar menggunakan bootstrap4
+-belajar oop dan mvc php
