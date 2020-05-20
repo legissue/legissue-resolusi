@@ -1,0 +1,5 @@
+legissue resolusi
+-konsisten membuat project sederhana
+-membuat website sendiri yang dapat di akses
+-membuat sistem login lengkap menggunakan codegniter
+-membuat portfolio hyperactive
